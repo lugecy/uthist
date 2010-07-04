@@ -689,4 +689,5 @@
     (require 'ediff)
     (ediff-buffers (current-buffer) uthist-diff-buffer)))
 
+(provide 'uthist)
 ;;; uthist.el ends here
